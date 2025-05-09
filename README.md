@@ -164,8 +164,8 @@ mi_card_flutter/
 
 ## Screenshots
 
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
+![ScreenShot](https://github.com/user-attachments/assets/2700c3fc-8951-49f8-ac95-d558fb312411)
+
 
 ## Technologies Used
 
